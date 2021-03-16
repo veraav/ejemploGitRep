@@ -1,1 +1,2 @@
 Fichero repo2
+nueva línea en repo2
